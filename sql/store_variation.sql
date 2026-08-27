@@ -1,4 +1,4 @@
--- sql/06_store_variation.sql
+
 -- Perishable sales as a share of total sales, per store — flags stores
 -- with disproportionately high perishable exposure.
 
