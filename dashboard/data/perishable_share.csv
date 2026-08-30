@@ -1,0 +1,3 @@
+is_perishable,line_items,total_units,total_sales_value,pct_of_total_sales
+True,1205172,1552392.0,3457394.88,46.9
+False,1357094,1790512.0,3917162.11,53.1
