@@ -10,7 +10,7 @@ An end-to-end data analytics project identifying which perishable product catego
 
 > Which perishable products carry the highest waste/overstock risk, and what should category management do differently for each?
 
-Perishable categories generate **46.9%** of total sales value in this dataset despite being a smaller share of the overall product catalog — meaning waste and forecasting errors in these categories carry an outsized impact on margin. This project identifies which categories matter most, and *why* they're risky, since "high revenue" and "hard to forecast" turn out to require different responses.
+Perishable categories generate **46.9%** of total sales value in this dataset despite being a smaller share of the overall product catalog - meaning waste and forecasting errors in these categories carry an outsized impact on margin. This project identifies which categories matter most, and *why* they're risky, since "high revenue" and "hard to forecast" turn out to require different responses.
 
 ---
 
@@ -135,4 +135,3 @@ python etl/export_for_dashboard.py
 ## Author
 
 Rajdeep Gupta 
-*Built as part of a data analytics portfolio.*
