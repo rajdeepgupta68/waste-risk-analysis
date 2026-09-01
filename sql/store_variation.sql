@@ -1,5 +1,5 @@
 
--- Perishable sales as a share of total sales, per store — flags stores
+-- Perishable sales as a share of total sales, per store - flags stores
 -- with disproportionately high perishable exposure.
 
 WITH store_totals AS (

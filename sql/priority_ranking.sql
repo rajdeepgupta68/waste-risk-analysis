@@ -1,4 +1,3 @@
--- sql/07_priority_ranking.sql
 -- Combines revenue exposure and demand volatility into a single
 -- waste-risk priority score per perishable category.
 -- Both components are normalized (0-1) then averaged equally.
