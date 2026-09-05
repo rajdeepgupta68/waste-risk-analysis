@@ -1,6 +1,6 @@
 # Sainsbury's-Style Perishable Waste-Risk Analysis
 
-An end-to-end data analytics project identifying which perishable product categories carry the highest waste/overstock risk, using a public grocery transactions dataset as a stand-in for Sainsbury's-style retail data.
+An end-to-end data analytics project identifying which perishable product categories carry the highest waste risk, using a public grocery transactions dataset as a stand-in for Sainsbury's-style retail data.
 
 **[View the insights summary](docs/insights_summary.md)** | **[View the data dictionary](docs/data_dictionary.md)**
 
